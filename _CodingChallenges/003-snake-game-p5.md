@@ -71,6 +71,12 @@ contributions:
       url: https://github.com/pom421
     url: http://pom421.github.io/CodingChallenges/CC_03_Snake_game/
     source: https://github.com/pom421/pom421.github.io/tree/master/CodingChallenges/CC_03_Snake_game
+    
+   - title: "3_snake"
+    author:
+      name: "Morel Takougang"
+    url: https://github.com/MorelT98/coding-challenges/blob/master/003_snake.py
+    source: https://github.com/MorelT98/coding-challenges
 ---
 
 In this coding challenge, I attempt to code a p5.js version of the Snake Game.
